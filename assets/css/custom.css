@@ -65,3 +65,13 @@
 .text-justify {
   text-align: justify;
 }
+
+.accordion-list img {
+  width: 25px;
+  margin-right: 10px;
+  margin-left: 20px;
+}
+
+.info-box .img{
+  background-image: url("../images/arch.jpg");
+}
