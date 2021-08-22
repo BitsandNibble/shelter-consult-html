@@ -1,5 +1,5 @@
 .slide-1 {
-  background-image: url("../img/slide/slide-1.jpeg");
+  background-image: url("../images/14-2.jpg");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -7,7 +7,7 @@
 }
 
 .slide-2 {
-  background-image: url("../img/slide/slide-2.jpg");
+  background-image: url("../images/1.jpg");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -15,7 +15,7 @@
 }
 
 .slide-3 {
-  background-image: url("../img/slide/slide-3.jpg");
+  background-image: url("../images/31.png");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -23,7 +23,7 @@
 }
 
 .slide-4 {
-  background-image: url("../img/slide/slide-4.jpeg");
+  background-image: url("../images/18-1.jpg");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -31,7 +31,7 @@
 }
 
 .slide-5 {
-  background-image: url("../img/slide/slide-5.jpg");
+  background-image: url("../images/30.jpg");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -39,7 +39,7 @@
 }
 
 .slide-6 {
-  background-image: url("../img/slide/slide-6.jpg");
+  background-image: url("../images/32.jpg");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -47,7 +47,7 @@
 }
 
 .slide-7 {
-  background-image: url("../img/slide/slide-7.jpg");
+  background-image: url("../images/20.jpg");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -55,7 +55,15 @@
 }
 
 .slide-8 {
-  background-image: url("../img/slide/slide-8.jpg");
+  background-image: url("../images/22-2.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.slide-9 {
+  background-image: url("../images/19-1.jpg");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
